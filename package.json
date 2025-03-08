@@ -23,7 +23,7 @@
     },
     "homepage": "https://github.com/Zef163/develop#readme",
     "dependencies": {
-        "axios": "^0.20.0",
+        "axios": "^1.8.2",
         "css-loader": "^4.3.0",
         "es6-promise": "^4.2.8",
         "express": "^4.17.1",
